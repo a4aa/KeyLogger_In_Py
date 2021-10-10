@@ -1,2 +1,3 @@
 # Totally NOT a keylogger.
 This is TOTALLY not a keylogger. dont worry about typing your passwords while this is running....
+## DISCALIMER: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE BY THID APPLICATION. ##
